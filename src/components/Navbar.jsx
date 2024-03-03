@@ -27,7 +27,7 @@ const Navbar = () => {
             className="w-9 h-9 object-contain"
           ></img>
           <p className="text-white text-[18px] font-bold cursor-pointer">
-            Faiaz <span>| Software Engineer</span>
+            Faiaz <span className="sm:block hidden">| Software Engineer</span>
           </p>
         </Link>
       </div>
